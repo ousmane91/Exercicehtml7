@@ -1,0 +1,49 @@
+/*PARTIE IDENTITÉ*/
+
+/*LE FORMULAIRE*/
+.identité
+{
+  background-color: #2574a9 ;
+  margin-right: 10px;
+  border: 0.5px solid grey;
+}
+
+/*TITRE 1*/
+.identité #titre1
+{
+margin-left:  20px;
+}
+
+/*PARTIE LIVRAISON*/
+
+/*LE FORMULAIRE*/
+.livraison
+{
+  background-color:  #9a12b3;
+  margin-right: 10px;
+  border: 0.5px solid grey;
+  margin-top: 10px;
+}
+
+/*TITRE 2*/
+.livraison #titre2
+{
+margin-left:  20px;
+}
+
+/*PARTIE INFO*/
+
+/*LE FORMULAIRE*/
+.info
+{
+  background-color:  #db0a5b;
+  margin-right: 10px;
+  border: 0.5px solid grey;
+  margin-top: 10px;
+}
+
+/*TITRE 3*/
+.info #titre3
+{
+margin-left:  20px;  
+}
